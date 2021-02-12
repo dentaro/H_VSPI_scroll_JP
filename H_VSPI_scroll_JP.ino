@@ -86,7 +86,6 @@ void setup() {
 }
  
 void loop() {
-// ArduinoOTA.handle();
 
   num = 0;
   int16_t x0 = 0, y0 = 0;
